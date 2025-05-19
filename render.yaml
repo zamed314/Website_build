@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: sql-test-site
+    env: docker
+    plan: free
